@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrGhost0219
+- 👋 Hi, my name is Martin Preciado
 - 👀 I’m interested in becomimg a Web Developer
 - 🌱 I’m currently learning HMTL CCS and JS
 - 💞️ I’m looking to collaborate on anything that will help me improve
