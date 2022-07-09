@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Martin Preciado
+- 👋 Hi, my name is Martin Preciado, but you may call me Mr. Ghost
 - 👀 I’m interested in becomimg a Web Developer
 - 🌱 I’m currently learning HMTL CCS and JS
 - 💞️ I’m looking to collaborate on anything that will help me improve
